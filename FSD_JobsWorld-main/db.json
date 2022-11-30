@@ -1,0 +1,195 @@
+{
+  "resumes": [
+    {
+      "firstName": "rakesh",
+      "lastName": "tulluri",
+      "currentCity": "Khammam",
+      "postalCode": "507002",
+      "email": "rakeshnani2318@gmail.com",
+      "phone": "8688738689",
+      "degree": "bachelor",
+      "fieldOfStudy": "CSE",
+      "college": "IIITS",
+      "year": "2019 to 2023",
+      "jobTitle": "NA",
+      "company": "NA",
+      "jobCity": "NA",
+      "jobYear": "NA",
+      "jobDesc": "NA",
+      "skills": {
+        "c": true,
+        "cpp": true,
+        "python": false,
+        "java": false
+      },
+      "id": 1
+    },
+    {
+      "firstName": "rakesh",
+      "lastName": "tulluri",
+      "currentCity": "Khammam",
+      "postalCode": "507002",
+      "email": "rakeshnani2318@gmail.com",
+      "phone": "8688738689",
+      "degree": "master",
+      "fieldOfStudy": "CSE",
+      "college": "IIITS",
+      "year": "2019 to 2023",
+      "jobTitle": "NA",
+      "company": "NA",
+      "jobCity": "NA",
+      "jobYear": "NA",
+      "jobDesc": "as",
+      "skills": {
+        "c": true,
+        "cpp": true,
+        "python": true,
+        "java": true
+      },
+      "id": 2
+    },
+    {
+      "firstName": "rakesh",
+      "lastName": "tulluri",
+      "currentCity": "Khammam",
+      "postalCode": "507002",
+      "email": "rakeshtulluri23@gmail.com",
+      "phone": "8688738689",
+      "degree": "12",
+      "fieldOfStudy": "CSE",
+      "college": "IIITS",
+      "year": "2019 to 2023",
+      "jobTitle": "NA",
+      "company": "NA",
+      "jobCity": "NA",
+      "jobYear": "NA",
+      "jobDesc": "ased",
+      "skills": {
+        "c": true,
+        "cpp": true,
+        "python": false,
+        "java": false
+      },
+      "id": 3
+    },
+    {
+      "firstName": "rakesh",
+      "lastName": "tulluri",
+      "currentCity": "Khammam",
+      "postalCode": "507002",
+      "email": "rakesh.t19@iiits.in",
+      "phone": "8688738689",
+      "degree": "diplomo",
+      "fieldOfStudy": "CSE",
+      "college": "IIITS",
+      "year": "2019 to 2023",
+      "jobTitle": "NA",
+      "company": "NA",
+      "jobCity": "NA",
+      "jobYear": "NA",
+      "jobDesc": "NA",
+      "skills": {
+        "c": true,
+        "cpp": true,
+        "python": false,
+        "java": false
+      },
+      "id": 4
+    }
+  ],
+  "jobs": [
+    {
+      "company_name": "Atmecs Technologies",
+      "company_description": "ATMECS is a result-oriented full-service engineering and R&D organization. We are Technology Accelerators bringing in visible transformation for our clients through automation, adoption of leading-ed",
+      "company_location": "Hyderabad",
+      "number_of_postings": 10,
+      "job_title": "Senior software developer",
+      "job_description": "Sr. Software Developer contributes to all phases of the Software Development Lifecycle through the analysis, design, implementation.",
+      "role_category": "Software Development",
+      "salary": "1200000",
+      "work_experience": "3",
+      "job_type": "FullTime",
+      "education_level": "Bachelor's Degree",
+      "skills": [
+        "JavaScript",
+        "Angular"
+      ],
+      "id": 1
+    },
+    {
+      "company_name": "Lead College",
+      "company_description": "We are an education institute in Sydney, Australia. You will be part of our digital marketing Team. More information can be shared in the interview.",
+      "company_location": "Hyderabad",
+      "number_of_postings": 10,
+      "job_title": "Full Stack Web Developer",
+      "job_description": "Support, maintain and develop new modules/features in critical web-based applications that run our core business.",
+      "role_category": "Software Development",
+      "salary": "425000",
+      "work_experience": "3",
+      "job_type": "FullTime",
+      "education_level": "Bachelor's Degree",
+      "skills": [
+        "Java",
+        "ReactJS",
+        "JavaScript",
+        "Angular"
+      ],
+      "id": 2
+    },
+    {
+      "company_name": "Aaims",
+      "company_description": "In spite of numerous government and private banks across the country, certain weaker sections of the society have been neglected over the period of time due to which there has been immense rise in the co-operative sector. ",
+      "company_location": "Vijayawada",
+      "number_of_postings": 5,
+      "job_title": "Software Programmer/IT Analyst",
+      "job_description": "Design, develop and implement school management system.",
+      "role_category": "Software Development",
+      "salary": "175000",
+      "work_experience": "3",
+      "job_type": "FullTime",
+      "education_level": "Bachelor's Degree",
+      "skills": [
+        "Java",
+        "Python"
+      ],
+      "id": 3
+    },
+    {
+      "company_name": "ANA DATA CONSULTING PRIVATE LIMITED",
+      "company_description": "Ana-Data is technology consulting company specializing in design and development of software applications that help our clients meet their strategic and operational needs.",
+      "company_location": "Chennai",
+      "number_of_postings": 28,
+      "job_title": "H1B Visa- Cloud Developer / Engineer",
+      "job_description": "We are seeking Cloud Engineers who has experience with Cloud Development, Big Data technologies, Kafka and Spark streaming. Primary responsibilities include but not limited to:",
+      "role_category": "DBA / Data warehousing",
+      "salary": "95000",
+      "work_experience": "7",
+      "job_type": "FullTime",
+      "education_level": "Bachelor's Degree",
+      "skills": [
+        "Java",
+        "Python",
+        "ReactJS"
+      ],
+      "id": 4
+    },
+    {
+      "company_name": "Meynikara Solutions Private Limited",
+      "company_description": "Meynikara is an AR/VR company based in Chennai operating since 2013. We have customer base in India, Singapore and UK. Our Vision is to become a 'Trend Setter' in the market.We are looking for energetic and passionate Unity 3d developers to join our team.\n\nBelow is our website link,\n\nhttps://www.meynikara.com",
+      "company_location": "Banglore",
+      "number_of_postings": 23,
+      "job_title": "Unity Game Developer",
+      "job_description": "We are looking for a talented Unity 3D developer to join our team and build next generation games by translating the ideas of the design team into a virtual environment that can be scaled and manipulated accordingly.\n\nAs a unity developer, you will be responsible for planning and implementing game functionality and building the game code.",
+      "role_category": "Software Development",
+      "salary": "350000",
+      "work_experience": "2",
+      "job_type": "FullTime",
+      "education_level": "Bachelor's Degree",
+      "skills": [
+        "Python",
+        "Java"
+      ],
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.profile-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-page-logout-btn {
+  background-color: #1288f7;
+  color: white;
+  margin-top: 20px;
+  padding: 10px 30px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
